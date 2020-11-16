@@ -1,4 +1,4 @@
-# ground-up-server
+# ground-up-web-app
 Ground Up Web App Project
 
 ## What is the Ground Up Server project?
